@@ -1,1 +1,1 @@
-Dice Challenge Feature 1: Login Feature
+Dice Challenge Feature 2: Registration feature
